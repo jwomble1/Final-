@@ -1,0 +1,307 @@
+@charset "utf-8";
+/* INSERT YOUR NAME HERE */
+body {
+  color: #ffffff;
+  justify-content: center;
+  background-attachment: scroll; /* Background is property of ©2022 Bungie, Inc. All rights reserved. For academic purposes only.*/
+  background-color: rgba(212, 235, 247, 1.00);
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  background-repeat: no-repeat;
+  margin-top: 0%;
+}
+nav {
+  color: #FFA5A6;
+}
+body section p {}
+p {
+    text-align: center;
+    Font-Family: 'Raleway', Sans-Serif;
+    Font-Size: x-large;
+    color: rgba(0, 0, 0, 1.00);
+}
+h1 {
+  Font-Family: 'Vollkorn', Serif;
+  Font-Size: 50px;
+  font-style: italic;
+  /*    font-size: 2em;
+*/ text-align: center;
+  color: #000000;
+  /*    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;*/
+  margin-top: 0%;
+  overflow-x: hidden;
+}
+aside {
+  text-align: center;
+  margin-top: 70px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  background-color: rgba(234, 230, 230, 1.00);
+}
+
+body section aside {
+  text-align: center;
+  float: left;
+}
+section {
+  background-color: rgba(222, 157, 155, 1.00);
+  /*background-color: rgba(222, 157, 155, 1.00);*/
+  color: #000000;
+  border-radius: 10px;
+  float: none;
+  clear: both;
+  text-align: center;
+  width: 100%;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  Font-Family: 'Vollkorn', Serif;
+  font-size: x-large;
+}
+h2 {
+  font-style: normal;
+  font-weight: 200;
+  text-align: center;
+  color: #050505;
+  Font-Family: 'Raleway', Sans-Serif;
+  Font-Size: 30px;
+  margin-left: 0%;
+  margin-right: 20%;
+  margin-top: 0%;
+  margin-bottom: 60%;
+}
+h3 {
+  text-align: center;
+  text-decoration: none;
+}
+footer {
+  font-size: xx-small;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+
+  background-image: -webkit-linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  background-image: -moz-linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  background-image: -o-linear-gradient(270deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 1.00) 100%);
+  height: 50px;
+  padding-top: 10px;
+  vertical-align: baseline;
+  text-align: center;
+  color: #000000;
+}
+
+header {
+  text-align: center;
+  margin-top: 80px;
+  margin-right: 80px;
+  margin-bottom: 80px;
+  margin-left: 80px;
+  color: #000000;
+}
+button {
+  margin: 20px;
+}
+.right {
+	
+}
+body header {}
+.top {
+  text-align: right;
+  width: 90%;
+  font-size: small;
+  clear: right;
+  margin-right: 50%;
+}
+
+.custom-btn {
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    color: #FCFCFC;
+    margin-top: -53%;
+}
+
+.btn-11 {
+    border: none;
+    background: rgb(234, 230, 230, 1.00); 
+    background: linear-gradient(0deg, rgba(251, 33, 117, 1) 0%, rgba(234, 76, 137, 1) 100%);
+    overflow: hidden;
+    text-decoration: none;
+  margin-top: -1 '';
+    margin-left: 4%;
+    margin-bottom: 90%;
+}
+
+
+body article {
+  float: left;
+  margin-right: 9%;
+  margin-left: 9%;
+}
+.btn-11:hover {
+  text-decoration: none;
+  color: #fff;
+}
+.btn-11:before {
+  position: absolute;
+  content: '';
+  display: inline-block;
+  top: -180px;
+  left: 0;
+  width: 30px;
+  height: 100%;
+  background-color: #fff;
+  animation: shiny-btn1 3s ease-in-out infinite;
+}
+.btn-11:hover {
+  opacity: .7;
+}
+.btn-11:active {
+  box-shadow: 4px 4px 6px 0 rgba(255, 255, 255, .3), -4px -4px 6px 0 rgba(116, 125, 136, .2), inset -4px -4px 6px 0 rgba(255, 255, 255, .2), inset 4px 4px 6px 0 rgba(0, 0, 0, .2);
+}
+
+body section aside {
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 30%;
+}
+
+article {
+  background-color: rgba(212, 235, 247, 1.00);
+}
+
+.a1 {
+  background-color: rgba(212, 235, 247, 1.00);
+  color: rgba(0, 0, 0, 1.00);
+  font-size: large;
+  text-align: center;
+  padding-top: 30px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  margin-top: 0px;
+  Font-Family: 'Raleway', Sans-Serif;
+}
+.button {
+  clear: both;
+  text-align: center;
+}
+.img {
+  clear: left;
+  float: left;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+.logo {
+  clear: both;
+}
+.quote1 {
+    Font-Family: 'Vollkorn', Serif;
+    float: left;
+    margin-left: 0%;
+    font-size: medium;
+    border: thin inset rgba(0, 0, 0, 1.00);
+    text-align: center;
+    width: 18%;
+    padding-top: 29px;
+    padding-right: 29px;
+    padding-bottom: 29px;
+    padding-left: 29px;
+    margin-top: 8%;
+    clear: left;
+}
+.quote2 {
+    font-size: medium;
+    float: left;
+    padding-top: 18px;
+    padding-right: 15px;
+    padding-bottom: 56px;
+    padding-left: 15px;
+    margin-top: -15%;
+    margin-left: 26%;
+    overflow-x: hidden;
+    border: thin inset rgba(0, 0, 0, 1.00);
+    width: 18%;
+}
+.quote3 {
+    font-size: medium;
+	float: left;
+    padding-top: 18px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    overflow-x: hidden;
+    border: thin inset rgba(0, 0, 0, 1.00);
+    margin-bottom: 1%;
+    margin-left: 50%;
+    margin-top: -15%;
+    width: 18%;
+}
+.quote4 {
+    font-size: medium;
+    float: left;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    overflow-x: hidden;
+    border: thin inset rgba(0, 0, 0, 1.00);
+    margin-bottom: 1%;
+    margin-top: -15%;
+    margin-left: 75%;
+    width: 18%;
+    padding-bottom: 36px;
+}
+.right {
+    margin-left: 83%;
+    margin-right: -83%;
+	margin-bottom: 5%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.left {
+    margin-bottom: 4%;
+    float: right;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-right: 19%;
+}
+.bottom {
+  background-color: rgba(212, 235, 247, 1.00);
+  Font-Family: 'Vollkorn', Serif;
+}.address {
+    Font-Family: 'Vollkorn', Serif;
+    background-color: rgba(222, 157, 155, 1.00);
+    color: rgba(0,0,0,1.00);
+    width: 100%;
+	margin-left: 0%;
+	margin-right: 0%;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-top: 5%;
+}
+body article img {
+    margin-right: -12%;
+    margin-left: 11%;
+}
+
+
